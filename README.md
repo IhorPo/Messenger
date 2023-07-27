@@ -15,3 +15,11 @@ No lengthy registration processes required – just enter your name, and you're 
 - Multiple Group Chats: Capability of managing and participating in more than one group chat simultaneously.
 - Profile Pictures: Customize your profile by adding image.
 - Enhanced Security: Implement robust security measures to ensure a safe messaging environment.
+## What the app looks like
+![alt text](https://github.com/IhorPo/Messenger/blob/master/screenshots/Screenshot_1.png)
+![alt text](https://github.com/IhorPo/Messenger/blob/master/screenshots/Screenshot_2.png)
+![alt text](https://github.com/IhorPo/Messenger/blob/master/screenshots/Screenshot_3.png)
+![alt text](https://github.com/IhorPo/Messenger/blob/master/screenshots/Screenshot_4.png)
+![alt text](https://github.com/IhorPo/Messenger/blob/master/screenshots/Screenshot_5.png)
+![alt text](https://github.com/IhorPo/Messenger/blob/master/screenshots/Screenshot_6.png)
+![alt text](https://github.com/IhorPo/Messenger/blob/master/screenshots/Screenshot_7.png)
